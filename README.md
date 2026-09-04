@@ -1,5 +1,8 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
+## Name: Guru Prasad D.R.
+## Reg.No: 212225040104
+
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
@@ -97,7 +100,8 @@ return 0;
 }
 ```
 ## Output:
-<img width="723" height="463" alt="image" src="https://github.com/user-attachments/assets/ae061d7c-b220-4013-a34d-4a871128ec45" />
+<img width="1838" height="691" alt="image" src="https://github.com/user-attachments/assets/2cb09da5-e66f-4872-984c-460597578ba7" />
+
 
 
 ## Result:
